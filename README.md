@@ -13,6 +13,9 @@
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
+  <a href="https://app.releasly.co/sites/juliandavidmr/awesome-nestjs?utm_source=github_badge">
+    <img src="https://app.releasly.co/assets/badges/badge-awesome-blue-classic.svg" alt="Follow new releases">
+  </a>
 </div>
 
 ## Contents <!-- omit in toc -->
