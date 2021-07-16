@@ -178,6 +178,7 @@
   - [Nestjs Cashify](https://github.com/vahidvdn/nestjs-cashify) - Currency conversion module for NestJS.
 - Event
   - [Nest Event](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
+  - [Nest Pg PubSub](https://github.com/jkcorrea/nestjs-pg-pubsub) - Postgres [async notifications](https://www.postgresql.org/docs/9.3/libpq-notify.html) for NestJS.
 - Auth
   - [NestJS Session](https://github.com/iamolegga/nestjs-session) - Idiomatic Session Module for NestJS. Built on top of [express-session](https://npm.im/express-session).
 - RBAC (Role-based access control)
